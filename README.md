@@ -18,7 +18,6 @@ I am...
 # Stats
 
 <p align="left">
-  </a>
   <a href="https://github.com/t0d4">
     <img height="20" src="https://img.shields.io/github/followers/t0d4?label=follow&logo=github&style=flat" />
   </a>
