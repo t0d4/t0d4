@@ -19,7 +19,7 @@ I am...
 
 <p align="left">
   <a href="https://github.com/t0d4">
-    <img height="20" src="https://img.shields.io/github/followers/t0d4?label=follow&logo=github&style=flat" />
+    <img height="20" src="https://img.shields.io/github/followers/t0d4?label=followers&logo=github&style=flat" />
   </a>
   <a href="http://qiita.com/t0d4_">
     <img height="20" src="https://qiita-badge.apiapi.app/s/t0d4_/posts.svg" />
