@@ -13,7 +13,7 @@ I am...
 - Majoring in :shield: Security & :chart_with_upwards_trend: Machine Learning
 - Mainly using [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/arch.svg" height="20em" align="center" alt="Arch Linux Logo" title="Arch Linux Logo"/>](https://archlinux.org/) Arch Linux
 - Fluent in [<img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" height="20em" align="center" alt="Python Logo" title="Python Logo"/>](https://www.python.org/) Python
-- Reasonably speaks English
+- Reasonably good at speaking English
 
 # Stats
 
